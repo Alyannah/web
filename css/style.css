@@ -49,13 +49,26 @@
 }
 
 #heroCont{
+	margin-top: 7.5rem;
 	width: 150%;
 	height: 50rem;
 	border: 1px solid #000;
+	text-align: center;
+	vertical-align: middle;
 }
 
 .scrollpad{
 	padding-top: 7.7rem;
+}
+
+.contentImg{
+	margin-top: 1rem;
+	border: 1px solid #000;
+	height: 30rem;
+}
+
+#voteImg{
+	margin-bottom: 20px;
 }
 
 @media (max-width: 75rem){
